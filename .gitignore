@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# AVR Arduino library zip files.
+AVR*.zip
+

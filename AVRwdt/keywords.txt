@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Classes (KEYWORD1)
+#######################################
+AVR_wdt	KEYWORD1
+AVRwdt	KEYWORD1
+
+#######################################
+# Class Methods & Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+end	KEYWORD2
+willReset	KEYWORD2
+willInterrupt	KEYWORD2
+reset	KEYWORD2
+interrupt	KEYWORD2
+
+######################################
+# Others Constants (LITERAL1)
+#######################################
+TIMEOUT_16MS	LITERAL1
+TIMEOUT_32MS	LITERAL1
+TIMEOUT_64MS	LITERAL1
+TIMEOUT_125MS	LITERAL1
+TIMEOUT_250MS	LITERAL1
+TIMEOUT_500MS	LITERAL1
+TIMEOUT_1S	LITERAL1
+TIMEOUT_2S	LITERAL1
+TIMEOUT_4S	LITERAL1
+TIMEOUT_8S	LITERAL1
+
